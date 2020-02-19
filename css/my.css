@@ -45,6 +45,14 @@ footer {
 	font-weight: bold;
 }
 
-.caption {
-	text-align:center;
+#doodle{
+  object-fit: cover;
+  width: 280px;
+  height: 280px;
+  border-radius: 50%;
+}
+#doodleb{
+  object-fit: cover;
+  width: 280px;
+  height: 280px;
 }
