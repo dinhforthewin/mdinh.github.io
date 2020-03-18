@@ -1,8 +1,8 @@
-a:hover {
+a{
 	color: #DAA520;
 }
 h1 {
-	font-size: 80px;
+	font-size: 7vw;
 	letter-spacing: -2px;
 	color: #DAA520;
 	font-family: 'Montserrat', sans-serif;
@@ -55,4 +55,14 @@ footer {
   object-fit: cover;
   width: 280px;
   height: 280px;
+}
+.responsive{
+  width: 100%;
+  max-width: 600px;
+  height: auto;
+}
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
